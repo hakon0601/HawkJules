@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HawkJules</string>
+    <string name="project_number">313730063137</string>
+    <string name="project_id">tutorials-intellij-summer14</string>
+    <string name="api_key">AIzaSyBdVBPUnxXAxi6UnkeuzGodhwighlmduNc</string>
+    <string name="reg_id_1">APA91bEUT0QnveX9tOuBicmcxU70S6At3AMmPZcRtOgJKcfZx4KySdEJdFX62QVvEfMHkY25dXAphPDV3CJ5t34mcV0NqaHGfTdUejC9yknBL9y65Iv6BZ0DZokQvXFxIy8kbRLuTs1RVU3FuqHE-9H83PV5lQOhNA</string>
 </resources>
