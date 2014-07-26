@@ -11,7 +11,7 @@
 # generated files
 bin/
 gen/
-out/*
+out/
 .idea/
 
 # Local configuration file (sdk path, etc)
