@@ -44,3 +44,4 @@ public class SendLoveTask extends AsyncTask<Void, Void, Void> {
         this.listener = listener;
     }
 }
+//ææææææ for mye, skjønner ingenting :(

@@ -47,6 +47,8 @@ public class RegisterTask extends AsyncTask<Void, Void, Void> {
         return false;
     }
 
+    //I want hawkon!
+
     private String getRegid() {
         GoogleCloudMessaging gcm = GoogleCloudMessaging.getInstance(context);
         try {
