@@ -27,14 +27,13 @@ Thumbs.db
 .project
 
 # Android Studio
-.idea/workspace.xml
 .gradle
 build/
 
 *.iml
 *.ipr
 *.iws
-.idea/
+.idea/*
 
 
 /*/out
