@@ -22,5 +22,6 @@ public class MessageBroadcastReceiver extends BroadcastReceiver {
         //som mottar det vi sender med knappen vår. Good luck.
         //Jeg elsker deg så utrolig mye. Tenker på deg hvert minutt av hver time hver dag. Det er vondt å være uten deg,
         //og jeg gleder så mye til å hoppe i armene dine igjen. Du er den beste kjæresten! Elsker deg!
+        //test
     }
 }
